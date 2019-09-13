@@ -10,7 +10,7 @@
 <hr style="opacity:0.4">
 <br/>
 <p align="center">
-  <a ><img src="file:///D:/essential%20software/Amazon%20scraping.webp"/></a>
+  <a ><img src="https://i.postimg.cc/bwH6NnH7/Amazon-scraping.png"/></a>
 
 <br /><br /><br />
 
@@ -20,11 +20,11 @@
 <br /><br />
 
 <p align="center">
- <a ><img src="file:///D:/essential%20software/Amazon%20scraping%20(1).webp" align="center"></img></a>
+ <a ><img src="https://i.postimg.cc/KjRPFSqp/Amazon-scraping.png" align="center"></img></a>
 </p>
 
 <p align="center">
-<img src = "file:///D:/essential%20software/Amazon%20scraping%20(2).webp"></img>
+<img src = "https://i.postimg.cc/g2jR8KRq/Amazon-scraping.png"></img>
 </p>
 
 <h1>Intro</h1>
