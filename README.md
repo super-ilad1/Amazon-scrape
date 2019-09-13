@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Amazon Scraping</title>
 </head>
 <body>
 <h1 align="center">Amazon Scraping</h1>
