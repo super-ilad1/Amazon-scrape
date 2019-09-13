@@ -6,7 +6,7 @@
 <body>
 <h1 align="center">Amazon Scraping</h1>
 
-<hr style="opacity:0.4">
+
 <br/>
 <p align="center">
   <a ><img src="https://i.postimg.cc/bwH6NnH7/Amazon-scraping.png"/></a>
