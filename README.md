@@ -61,18 +61,21 @@
 <h1>Disdvantage</h1>
     <hr style="opacity:0.4"><br/>
 
-<li ><FONT SIZE=4>Slow speed,Cause this may be the common defect of Selenium driven scraping tool,so it may be acceptable,However, you can try Request one, Amazon is strict to that kind of scraping,you will fell a huge restriction and deep spite from Jeff Bezos. </FONT>
+<li >
+    <FONT SIZE=4>Slow speed,Cause this may be the common defect of Selenium driven scraping tool,so it may be acceptable,However, you can try Request one, Amazon is strict to that kind of scraping,you will fell a huge restriction and deep spite from Jeff Bezos. </FONT>
     <br/> <br/>
 
 
-    <li ><FONT SIZE=4>2.Trouble initializing for who doesn't use selenium and mysql
+
+   <li ><FONT SIZE=4>Trouble initializing for who doesn't use selenium and mysql
+    <br/><br/>
 
 
 
     <br/>
 
 
-</FONT>
+
 
 <br/><br/>
 
