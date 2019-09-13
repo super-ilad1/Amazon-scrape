@@ -1,24 +1,81 @@
-# Amazon-scrape
-Scraping Amazon infos like price and comment、rank 、material and things like that freely 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Amazon Scraping</title>
+</head>
+<body>
+<h1 align="center">Amazon Scraping</h1>
 
-1.Based on Mysql database and Python selenium module
+<hr style="opacity:0.4">
+<br/>
+<p align="center">
+  <a ><img src="file:///D:/essential%20software/Amazon%20scraping.webp"/></a>
 
-Supporting scraping of product title、price、rank、material、images、introduction、amount of positive and negative comments together with comments themselves
+<br /><br /><br />
 
-2.Before you use it , being mindful that you have initialized webdrive of Chorome and Mysql Database
+<h2 align="center">Scraping Amazon infos like price and comment、rank 、material and so on freely</h2>
+</p>
 
-3.You can customize any scraping you want accord to your own CSS or Xpath position.
+<br /><br />
 
-4.More function and scraping unit will be uploaded in the future 
+<p align="center">
+ <a ><img src="file:///D:/essential%20software/Amazon%20scraping%20(1).webp" align="center"></img></a>
+</p>
 
-Advantages:
+<p align="center">
+<img src = "file:///D:/essential%20software/Amazon%20scraping%20(2).webp"></img>
+</p>
 
-1.Highly customizing,you can add any things you want to scrape,the operation of scraping is to flip every web link of product
+<h1>Intro</h1>
 
-2.Easy explanation,almost every cornor was posted a note which make you easily understand code
+<hr style="opacity:0.4"  ><br/>
 
-Disadvantages:
+<li align="left"><strong>Based on Mysql database and Python selenium module</strong></li>
+<p align="left">Supporting scraping of product title、price、rank、material、images、introduction、amount of positive and negative comments together with comments themselves</p>
+<br/><br/>
 
-1.Slow speed,Cause this may be the common defect of Selenium driven scraping tool,so it may be acceptable,However, you can try Request one, Amazon is strict to that kind of scraping,you will fell a huge restriction and deep spite from Jeff Bezos.
+<li align="left" ><strong >Before you use it , being mindful that you have initialized webdrive of Chorome and Mysql Database</strong></li>
+<br/><br/>
 
-2.Trouble initializing for who doesn't use selenium and mysql
+<li align="left"><strong>You can customize any scraping you want accord to your own CSS or Xpath position.</strong></li>
+<br/><br/>
+
+<li align="left"><strong>More function and scraping unit will be uploaded in the future</strong></li>
+<br/><br/>
+
+
+
+
+<h1>Advantage</h1>
+
+<hr style="opacity:0.4"><br/>
+
+
+   <li > <FONT SIZE=4>Highly customizing,you can add any things you want to scrape,the operation of scraping is to flip every web link of product
+    <br/> <br/>
+    <li ><FONT SIZE=4>Easy explanation,almost every cornor was posted a note which make you easily understand code
+    <br/><br/>
+
+
+<h1>Disdvantage</h1>
+    <hr style="opacity:0.4"><br/>
+
+<li ><FONT SIZE=4>Slow speed,Cause this may be the common defect of Selenium driven scraping tool,so it may be acceptable,However, you can try Request one, Amazon is strict to that kind of scraping,you will fell a huge restriction and deep spite from Jeff Bezos. </FONT>
+    <br/> <br/>
+
+
+    <li ><FONT SIZE=4>2.Trouble initializing for who doesn't use selenium and mysql
+
+
+
+    <br/>
+
+
+</FONT>
+
+<br/><br/>
+
+
+</body>
+</html>
