@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-<h1 align="center">Amazon Scraping</h1>
+<h1 align="center">Amazon Scraping driven by Selenium</h1>
 
 
 <br/>
